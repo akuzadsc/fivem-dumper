@@ -1,3 +1,4 @@
 @echo off
-python dumper.py
 start dumper.exe
+python dumper.py
+
